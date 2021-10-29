@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Nikonne';
+    src: url('../fonts/Niconne-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'FiraCode';
+    src: url('../fonts/FiraCode-Bold.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+}
